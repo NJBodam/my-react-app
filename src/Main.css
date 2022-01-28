@@ -1,0 +1,11 @@
+.main {
+    display: flex;
+}
+.sidebar{
+    flex:0.15;
+    border-right: 1px solid lightgrey;
+}
+.mainbody{
+    flex:0.85;
+}
+
